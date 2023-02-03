@@ -55,6 +55,9 @@ Future Scope
   
  Team Members
     Rishabh Singh , Email : RtSingh_b21@ci.vjti.ac.in
+    Rohit karwatkar
+    Yash gundale 
+    Nivedita shinde
     
  Mentors
     Aishwariya jhadhav , 
