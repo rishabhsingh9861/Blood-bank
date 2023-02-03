@@ -28,7 +28,8 @@ user stype UI is for organization Page
 
 Links 
 [Github](https://github.com/rishabhsingh9861/Blood-bank.git)
-
+[Photos](https://photos.app.goo.gl/nVExaQDReV2ViuRs6)
+[DemoVideo](https://photos.app.goo.gl/WXPEzQmGZctf9KMp8)
 
 
 Tech-stack
