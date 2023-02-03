@@ -85,7 +85,8 @@ It will also give opportuinty to user to donate to nearby hospital/ blood bank /
 
 ## Authentication Screens
 
-<img src="https://github.com/rishabhsingh9861/Blood-bank/blob/master/assets/screenshots/IMG-20230203-WA0006.jpg"  width="250" height="540"/>  <img src= ""  width="250" height="540"/>
+<img src="https://github.com/rishabhsingh9861/Blood-bank/blob/master/assets/screenshots/IMG-20230203-WA0006.jpg"  width="250" height="540"/> 
+
 
 ## Signup screens
 
