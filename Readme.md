@@ -1,5 +1,5 @@
 
-# Hospital App
+# Blood Bank App
 
 Team name: Elite entity
 
@@ -78,26 +78,32 @@ It will also give opportuinty to user to donate to nearby hospital/ blood bank /
 
 ## Onboarding Screens
 
-<img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot1.jpg"  width="250" height="540"/>  
+<img src="https://github.com/rishabhsingh9861/Blood-bank/blob/master/assets/screenshots/onboard.jpg"  width="250" height="540"/>  
+<img src="https://github.com/rishabhsingh9861/Blood-bank/blob/master/assets/screenshots/IMG-20230203-WA0007.jpg"  width="250" height="540"/>  
 
 
 
 ## Authentication Screens
 
-<img src="https://github.com/rishabhsingh9861/Blood-bank/blob/master/assets/screenshots/IMG-20230203-WA0006.jpg"  width="250" height="540"/>  <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot3.jpg"  width="250" height="540"/>
+<img src="https://github.com/rishabhsingh9861/Blood-bank/blob/master/assets/screenshots/IMG-20230203-WA0006.jpg"  width="250" height="540"/>  <img src= ""  width="250" height="540"/>
+
+## Signup screens
+
+<img src="https://github.com/rishabhsingh9861/Blood-bank/blob/master/assets/screenshots/IMG-20230203-WA0008.jpg"  width="250" height="540"/>
+<img src= "https://github.com/rishabhsingh9861/Blood-bank/blob/master/assets/screenshots/signpageusers.jpg"  width="250" height="540"/>
+
+## Users workflow
+
+<img src="https://github.com/rishabhsingh9861/Blood-bank/blob/master/assets/screenshots/IMG-20230203-WA0010.jpg"  width="250" height="540"/>
+<img src="https://github.com/rishabhsingh9861/Blood-bank/blob/master/assets/screenshots/IMG-20230203-WA0011.jpg"  width="250" height="540"/> 
+<img src="https://github.com/rishabhsingh9861/Blood-bank/blob/master/assets/screenshots/IMG-20230203-WA0012.jpg"  width="250" height="540"/>  
+<img src="https://github.com/rishabhsingh9861/Blood-bank/blob/master/assets/screenshots/IMG-20230203-WA0015.jpg"  width="250" height="540"/>  
+<img src="https://github.com/rishabhsingh9861/Blood-bank/blob/master/assets/screenshots/IMG-20230203-WA0017.jpg"  width="250" height="540"/>  
+
+## Organizations workflow
 
 
-
-## Hospital workflow
-
-<img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot4.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot5.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot6.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot7.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot8.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot13.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot14.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot15.jpg"  width="250" height="540"/>
-
-
-
-## Patient workflow
-
-
-<img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot16.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot17.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot19.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot21.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot22.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot23.jpg"  width="250" height="540"/> 
+<img src="https://github.com/rishabhsingh9861/Blood-bank/blob/master/assets/screenshots/IMG-20230203-WA0020.jpg"  width="250" height="540"/>
 
 
   
