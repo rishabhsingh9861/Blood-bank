@@ -57,7 +57,7 @@ Future Scope
     Rishabh Singh , Email : RtSingh_b21@ci.vjti.ac.in
     
  Mentors
-    Aishwariya jhadhav
+    Aishwariya jhadhav , 
     Tushar shirbhate
 
 
