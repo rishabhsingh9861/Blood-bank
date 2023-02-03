@@ -36,10 +36,7 @@ Front End
   Flutter , Dart
   
 Back End 
-  Firebase
-  
-  
-  
+  Firebase  
   
 Progress
   App Dev
@@ -48,13 +45,20 @@ Progress
      Database is real-time database 
      User-friendly
      Advanced Way of donation and Requsest
+     Andvanced Way of blood store in blood bank
+     
      
      
 Future Scope
   we will put a color Indicator in our app where a user can get the information that this blood bank has less blood of this type
   the way of donating blood will totally chnge in future when this app launched playstore or on ios
   
-     
+ Team Members
+    Rishabh Singh , Email : RtSingh_b21@ci.vjti.ac.in
+    
+ Mentors
+    Aishwariya jhadhav
+    Tushar shirbhate
 
 
 
