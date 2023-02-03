@@ -1,54 +1,103 @@
 
+# Hospital App
 
-This is my first COC project. In which we have learn lots of thing to learn.
+Team name: Elite entity
 
-Description
-Life is an open-source project aimed where a user can get the blood and donate the blood 
-
-user  and organization UI is good ecofriendly 
-I will give you a brief idea how ui will work 
-when user open a app user will have  get an option for register or login 
-then  user select register they have it will ask 'Are u user or an organization' if it is an user it will go to user signpage after filling form it will go to home page where it will get lots of option 
-user stype UI is for organization Page
-
-Links 
-[Github](https://github.com/rishabhsingh9861/Blood-bank.git)
-[Photos](https://photos.app.goo.gl/nVExaQDReV2ViuRs6)
-[DemoVideo](https://photos.app.goo.gl/WXPEzQmGZctf9KMp8)
+## Team members
 
 
-Tech-stack
-Front End 
-  Flutter , Dart
-  
-Back End 
-  Firebase  
-  
-Progress
-  App Dev
-     Secure authentication for users to access the app.
-     Authorization system to manage user And organization access.
-     Database is real-time database 
-     User-friendly
-     Advanced Way of donation and Requsest
-     Andvanced Way of blood store in blood bank
-     
-     
-     
-Future Scope
-  we will put a color Indicator in our app where a user can get the information that this blood bank has less blood of this type
-  the way of donating blood will totally chnge in future when this app launched playstore or on ios
-  
- Team Members
-    Rishabh Singh , Email : RtSingh_b21@ci.vjti.ac.in
-    Rohit karwatkar
-    Yash gundale 
-    Nivedita shinde
-    
- Mentors
-    Aishwariya jhadhav , 
-    Tushar shirbhate
+[Rishabh Singh](https://github.com/rishabhsingh9861) -
+RtSingh_b21@ci.vjti.ac.in
 
+## Mentors
+
+[Aishwariya Jhadhav](https://github.com/Aish1703)
+
+[Tushar shirbhate](https://github.com/Tushar-Shirbhate)
+
+
+
+
+## Description
+
+- A **flutter app** made by group in Inheritance Program conducted in
+college.
+- It makes user to find blood in nearby.
+- User can  raise a public donation through this app .
+- user can donate to particular bank if user wish to do.
+- They can change the theme, edit their profile.
+It uses **Firebase Authentication** to Sign Up and Login, **Firebase Database** to store users and blood bank data.
+
+
+## Technology Stack
+1.Dart 
+
+2.Flutter
+
+3.Firebase
+
+
+## Feautures
+
+- [x] Log in 
+- [x] sign up
+- [x] Donate
+- [x] Request
+- [x] Nearby hospital
+- [x] nearby blood/blood banks
+- [x] History
+
+## Usage
+1. To use the app clone the repo.
+2. Then run the application in VS Code or Android Studio using an 
+   android emulator or an android phone or an IOS phone.
+3. Then register yourself in the app.
+4. If you are a Blood bank then register yourself in the Organization Section by filling the required form.
+5. If you are a user then register yourself in the user sectionby by filling the register form.
+6. In Nearby Hospital you can all nearby hospital
+10. For blood bank they have to login in their respective credentials.
+11. Blood bank can see appointments of the donation in 'Appointments' section.
+12. They can also see the History in History section.  
+
+## Application
+
+It conects the blood banks and users whoo need blood .
+It will also give opportuinty to user to donate to nearby hospital/ blood bank / needy people.
+
+
+
+## Future Scope
+1.Adding the colour option in blood group of blood bank in which an user will donate to a particular bank will have blood, 
+2. Add search option 
+3. Add google maps to reach blood banks or needy people easily
+4. Online payment feature
+5. Feature to book ambulance 
+
+
+## Screenshots
+
+## Onboarding Screens
+
+<img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot1.jpg"  width="250" height="540"/>  
+
+
+
+## Authentication Screens
+
+<img src="https://github.com/rishabhsingh9861/Blood-bank/blob/master/assets/screenshots/IMG-20230203-WA0006.jpg"  width="250" height="540"/>  <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot3.jpg"  width="250" height="540"/>
+
+
+
+## Hospital workflow
+
+<img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot4.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot5.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot6.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot7.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot8.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot13.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot14.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot15.jpg"  width="250" height="540"/>
+
+
+
+## Patient workflow
+
+
+<img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot16.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot17.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot19.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot21.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot22.jpg"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/main/Assets/screenshots/Screenshot23.jpg"  width="250" height="540"/> 
 
 
   
